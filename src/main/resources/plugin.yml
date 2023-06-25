@@ -1,0 +1,4 @@
+name: DicyTotems
+version: '${project.version}'
+main: dice.jiuc.dicytotems.Main
+api-version: 1.19
